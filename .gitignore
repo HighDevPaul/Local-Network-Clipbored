@@ -1,0 +1,25 @@
+# RAD Studio / C++Builder generated files
+*.dcu
+*.obj
+*.o
+*.exe
+*.dll
+*.bpl
+*.map
+*.tds
+*.identcache
+*.local
+*.tvsconfig
+*.~*
+*.ddp
+*.dsk
+
+# Build/output directories
+Win32/
+Win64/
+Win64x/
+Debug/
+Release/
+
+# RAD Studio history
+__history/
